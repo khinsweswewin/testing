@@ -9,3 +9,4 @@ Text Domain: kwyhtest
 Domain Path: /languages
     Copyright (C) 2018 Digital Agency Corp.
 */
+swe swe
